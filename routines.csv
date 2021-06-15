@@ -1,0 +1,5 @@
+ID,ActuatorType,ActuatorName,SensorUseName,SensorValue,Operator,ActuatorValue
+Door1_Temperature_Inside_1,Servomotor,Door1,Temperature Inside,20,>=,180
+Light1_Temperature_Inside_3,LED,Light1,Temperature Inside,17,>=,None
+Light2_Temperature_Inside_4,LED,Light2,Temperature Inside,19,=,None
+Light2_Temperature_Inside_5,LED,Light2,Temperature Inside,17,<,None

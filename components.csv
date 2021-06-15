@@ -1,0 +1,5 @@
+Use,Type,Name,Pin,PWM,Actuator/Sensor
+Door,Servomotor,Door1,13,True,Actuator
+Lights,LED,Light1,17,False,Actuator
+Temperature/Humidity,DHT11,Inside,23,False,Sensor
+Lights,LED,Light2,27,False,Actuator
